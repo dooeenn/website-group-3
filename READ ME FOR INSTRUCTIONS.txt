@@ -1,0 +1,5 @@
+Instructions:
+1. Open index.html first to access all htmls
+2. Login username and password are the same "admin".
+3. Enjoy!
+MADE BY GROUP 3
